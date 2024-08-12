@@ -1,1 +1,1 @@
-# Flood-detection-using-Satellite-Images
+# Flood-Prediction-using-Satellite-Images
